@@ -1,5 +1,4 @@
 /
 python Python Python
-Want me some Python
-Code is creative
+blah 
 And so is nylon
